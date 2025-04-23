@@ -3,7 +3,7 @@
 A Laravel API for fetching weather data from OpenWeatherMap.
 
 ## Setup
-1. Clone the repository: `git clone https://github.com/yourusername/weather-api.git`
+1. Clone the repository
 2. Install dependencies: `composer install`
 3. Copy `.env.example` to `.env` and add `OPENWEATHERMAP_API_KEY`.
 4. Start Docker: `./vendor/bin/sail up`
